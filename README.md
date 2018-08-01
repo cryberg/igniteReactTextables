@@ -22,6 +22,11 @@
     * Run Genymotion
     * run `react-native run-android`
 
+## Youtube Tutorial
+
+To get familiar with Ignite CLI, I followed [this](https://www.youtube.com/watch?v=lv00UOXxy0g) tutorial on Youtube:
+
+
 ## :no_entry_sign: Standard Compliant
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
